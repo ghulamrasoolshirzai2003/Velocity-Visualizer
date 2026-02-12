@@ -122,7 +122,7 @@ taskkill /PID <PID> /F
 ## Next Steps
 
 Once everything is running:
-1. Explore the Sentinel 40 icon categories
+1. Explore the Velocity icon categories
 2. Design your first cloud architecture
 3. Test the connection validation rules
 4. Save and load multiple blueprints

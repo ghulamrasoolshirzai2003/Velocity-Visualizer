@@ -1,5 +1,5 @@
-// Sentinel 40 - Cloud Architecture Icon System
-// 40 icons across 5 categories with connection validation rules
+// Cloud Architecture Icon System
+// 40+ icons across multiple categories with connection validation rules
 
 import { iconEnhancements } from './iconEnhancements';
 

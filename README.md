@@ -10,7 +10,7 @@ A complete, modular, production-style Full-Stack web application for visually de
 ## 🎯 Features
 
 - **3D Glassmorphism UI**: Hyper-modern volumetric design with neon accents
-- **Sentinel 40 Icon System**: 40 cloud architecture icons across 5 categories
+- **Velocity Icon System**: 40+ cloud architecture icons across multiple categories
 - **Smart Connection Validation**: Real-time validation prevents unsafe architecture patterns
 - **Blueprint Persistence**: Save, load, and manage multiple architecture designs
 - **Interactive Canvas**: Drag-drop, zoom, pan with React Flow
@@ -205,4 +205,4 @@ Built with ❤️ as a demonstration of Full-Stack Engineering, Modular React Ar
 
 ---
 
-**Powered by Sentinel 40** - The Cloud Architecture Icon System
+**Powered by Velocity Visualizer** - The Cloud Architecture Icon System
