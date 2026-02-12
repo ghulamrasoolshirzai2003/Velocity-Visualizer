@@ -13,8 +13,8 @@
         "architecture",
         "visualizer"
     ],
-    "author": "",
-    "license": "MIT",
+    "author": "Ghulam Rasool Shirzai",
+    "license": "UNLICENSED",
     "dependencies": {
         "bcryptjs": "^3.0.3",
         "better-sqlite3": "^11.7.0",

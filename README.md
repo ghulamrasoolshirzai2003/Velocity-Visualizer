@@ -197,7 +197,9 @@ FRONTEND_URL=http://localhost:5173
 
 ## 📄 License
 
-MIT License - feel free to use this project for learning or commercial purposes.
+Copyright © 2026 Ghulam Rasool Shirzai. All Rights Reserved.
+
+This project is proprietary and confidential. Unauthorized copying of this file, via any medium is strictly prohibited.
 
 ## 👨‍💻 Author
 
