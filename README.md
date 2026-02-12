@@ -197,7 +197,7 @@ FRONTEND_URL=http://localhost:5173
 
 ## 📄 License
 
-Copyright © 2026 Ghulam Rasool Shirzai. All Rights Reserved.
+Copyright © 2026 Ghulam Rasool Shirzai. All Rights Reserved. [Portfolio](https://ghulam-portfolio.web.app) | [LinkedIn](https://linkedin.com/in/ghulam-rasool-shirzai-13a6b4387)
 
 This project is proprietary and confidential. Unauthorized copying of this file, via any medium is strictly prohibited.
 
