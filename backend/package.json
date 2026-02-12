@@ -1,0 +1,29 @@
+{
+    "name": "velocity-visualizer-backend",
+    "version": "1.0.0",
+    "description": "Backend API for Velocity Visualizer",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "node --watch server.js"
+    },
+    "keywords": [
+        "cloud",
+        "architecture",
+        "visualizer"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "bcryptjs": "^3.0.3",
+        "better-sqlite3": "^11.7.0",
+        "cookie-parser": "^1.4.7",
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2",
+        "express-rate-limit": "^8.2.1",
+        "helmet": "^8.1.0",
+        "jsonwebtoken": "^9.0.3"
+    }
+}

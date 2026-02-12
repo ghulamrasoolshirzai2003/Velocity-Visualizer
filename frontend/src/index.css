@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-950 text-white antialiased;
+  }
+}
+
+@layer components {
+  .glass-panel {
+    @apply bg-white/10 backdrop-blur-glass border border-white/20 shadow-glass;
+  }
+
+  .glass-node {
+    @apply glass-panel rounded-xl p-4 transition-all duration-300;
+  }
+
+  .neon-border-cyan {
+    @apply border-neon-cyan shadow-glow-cyan;
+  }
+
+  .neon-border-violet {
+    @apply border-neon-violet shadow-glow-violet;
+  }
+
+  .btn-glass {
+    @apply glass-panel px-4 py-2 rounded-lg hover:bg-white/20 transition-all duration-300 cursor-pointer;
+  }
+}
+
+/* React Flow Custom Styles */
+.react-flow__edge-path {
+  stroke: #00f0ff;
+  stroke-width: 2;
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+.react-flow__handle {
+  background: #00f0ff;
+  width: 10px;
+  height: 10px;
+  border: 2px solid #0a0a0a;
+}
+
+.react-flow__handle:hover {
+  background: #a855f7;
+  box-shadow: 0 0 10px rgba(168, 85, 247, 0.8);
+}
+
+/* Custom Animations */
+@keyframes gradient-shift {
+
+  0%,
+  100% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient-shift 3s ease infinite;
+}
+
+@keyframes pulse-glow {
+
+  0%,
+  100% {
+    filter: drop-shadow(0 0 2px rgba(0, 240, 255, 0.5));
+  }
+
+  50% {
+    filter: drop-shadow(0 0 8px rgba(0, 240, 255, 0.8));
+  }
+}
+
+.shadow-glow-cyan {
+  box-shadow: 0 0 20px rgba(0, 240, 255, 0.3);
+}
+
+.shadow-glow-violet {
+  box-shadow: 0 0 20px rgba(168, 85, 247, 0.3);
+}
+
+.drop-shadow-glow-cyan {
+  filter: drop-shadow(0 0 4px rgba(0, 240, 255, 0.6));
+}

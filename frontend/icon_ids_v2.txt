@@ -1,0 +1,885 @@
+﻿
+src\data\iconData.js:41:  
+      id: 'waf',
+src\data\iconData.js:48:  
+      id: 'firewall',
+src\data\iconData.js:55:  
+      id: 'encryption',
+src\data\iconData.js:62:  
+      id: 'identity-mgmt',
+src\data\iconData.js:69:  
+      id: 'mfa',
+src\data\iconData.js:76:  
+      id: 
+'ddos-protection',
+src\data\iconData.js:83:  
+      id: 'secrets-vault',
+src\data\iconData.js:90:  
+      id: 'compliance',
+src\data\iconData.js:97:  
+      id: 'inspector',
+src\data\iconData.js:104: 
+       id: 'guardduty',
+src\data\iconData.js:111: 
+       id: 'macie',
+src\data\iconData.js:118: 
+       id: 'shield',
+src\data\iconData.js:125: 
+       id: 'kms',
+src\data\iconData.js:132: 
+       id: 'cloudhsm',
+src\data\iconData.js:139: 
+       id: 'cert-manager',
+src\data\iconData.js:146: 
+       id: 'waf-v2',
+src\data\iconData.js:153: 
+       id: 'firewall-mgr',
+src\data\iconData.js:160: 
+       id: 'artifact',
+src\data\iconData.js:167: 
+       id: 'detective',
+src\data\iconData.js:174: 
+       id: 'security-hub',
+src\data\iconData.js:183: 
+       id: 
+'load-balancer',
+src\data\iconData.js:190: 
+       id: 'api-gateway',
+src\data\iconData.js:197: 
+       id: 'cdn',
+src\data\iconData.js:204: 
+       id: 'dns',
+src\data\iconData.js:211: 
+       id: 'vpn',
+src\data\iconData.js:218: 
+       id: 'nat-gateway',
+src\data\iconData.js:225: 
+       id: 'public-users',
+src\data\iconData.js:232: 
+       id: 'web-server',
+src\data\iconData.js:239: 
+       id: 'vpc',
+src\data\iconData.js:246: 
+       id: 'subnet',
+src\data\iconData.js:253: 
+       id: 
+'internet-gateway',
+src\data\iconData.js:260: 
+       id: 'vpn-gateway',
+src\data\iconData.js:267: 
+       id: 
+'customer-gateway',
+src\data\iconData.js:274: 
+       id: 
+'transit-gateway',
+src\data\iconData.js:281: 
+       id: 'route-table',
+src\data\iconData.js:288: 
+       id: 'network-acl',
+src\data\iconData.js:295: 
+       id: 'elastic-ip',
+src\data\iconData.js:302: 
+       id: 'vpc-peering',
+src\data\iconData.js:309: 
+       id: 
+'direct-connect',
+src\data\iconData.js:316: 
+       id: 'private-link',
+src\data\iconData.js:325: 
+       id: 'container',
+src\data\iconData.js:332: 
+       id: 'serverless',
+src\data\iconData.js:339: 
+       id: 'kubernetes',
+src\data\iconData.js:346: 
+       id: 'app-server',
+src\data\iconData.js:353: 
+       id: 
+'batch-processing',
+src\data\iconData.js:360: 
+       id: 'queue-worker',
+src\data\iconData.js:367: 
+       id: 'edge-compute',
+src\data\iconData.js:374: 
+       id: 'vm',
+src\data\iconData.js:381: 
+       id: 'ec2-instance',
+src\data\iconData.js:388: 
+       id: 
+'auto-scaling-group',
+src\data\iconData.js:395: 
+       id: 
+'elastic-beanstalk',
+src\data\iconData.js:402: 
+       id: 'lambda-layer',
+src\data\iconData.js:409: 
+       id: 'fargate',
+src\data\iconData.js:416: 
+       id: 'lightsail',
+src\data\iconData.js:423: 
+       id: 'outposts',
+src\data\iconData.js:430: 
+       id: 'vmware-cloud',
+src\data\iconData.js:437: 
+       id: 'batch-job',
+src\data\iconData.js:444: 
+       id: 
+'parallel-cluster',
+src\data\iconData.js:451: 
+       id: 'wavelength',
+src\data\iconData.js:458: 
+       id: 
+'simspaceweaver',
+src\data\iconData.js:467: 
+       id: 'database',
+src\data\iconData.js:474: 
+       id: 
+'object-storage',
+src\data\iconData.js:481: 
+       id: 'cache',
+src\data\iconData.js:488: 
+       id: 'file-storage',
+src\data\iconData.js:495: 
+       id: 'backup',
+src\data\iconData.js:502: 
+       id: 
+'data-warehouse',
+src\data\iconData.js:509: 
+       id: 
+'message-queue',
+src\data\iconData.js:516: 
+       id: 
+'block-storage',
+src\data\iconData.js:523: 
+       id: 's3-bucket',
+src\data\iconData.js:530: 
+       id: 's3-glacier',
+src\data\iconData.js:537: 
+       id: 'efs',
+src\data\iconData.js:544: 
+       id: 'fsx',
+src\data\iconData.js:551: 
+       id: 'ebs-volume',
+src\data\iconData.js:558: 
+       id: 
+'storage-gateway',
+src\data\iconData.js:565: 
+       id: 'backup-vault',
+src\data\iconData.js:572: 
+       id: 'dr-service',
+src\data\iconData.js:579: 
+       id: 'archive',
+src\data\iconData.js:586: 
+       id: 'snapshot',
+src\data\iconData.js:593: 
+       id: 'volume',
+src\data\iconData.js:600: 
+       id: 
+'bucket-policy',
+src\data\iconData.js:609: 
+       id: 'ci-cd',
+src\data\iconData.js:616: 
+       id: 'monitoring',
+src\data\iconData.js:623: 
+       id: 'logging',
+src\data\iconData.js:630: 
+       id: 'notification',
+src\data\iconData.js:637: 
+       id: 
+'container-registry',
+src\data\iconData.js:644: 
+       id: 
+'secrets-manager',
+src\data\iconData.js:651: 
+       id: 
+'config-service',
+src\data\iconData.js:658: 
+       id: 
+'admin-service',
+src\data\iconData.js:665: 
+       id: 'cloudwatch',
+src\data\iconData.js:672: 
+       id: 'config',
+src\data\iconData.js:679: 
+       id: 'cloudtrail',
+src\data\iconData.js:686: 
+       id: 
+'systems-manager-ops',
+src\data\iconData.js:693: 
+       id: 
+'service-health',
+src\data\iconData.js:700: 
+       id: 
+'trusted-advisor-ops',
+src\data\iconData.js:707: 
+       id: 
+'personal-health',
+src\data\iconData.js:714: 
+       id: 
+'license-manager-ops',
+src\data\iconData.js:721: 
+       id: 
+'well-architected-ops',
+src\data\iconData.js:728: 
+       id: 
+'distro-opentelemetry',
+src\data\iconData.js:735: 
+       id: 
+'managed-grafana',
+src\data\iconData.js:742: 
+       id: 
+'managed-prometheus',
+src\data\iconData.js:751: 
+       id: 
+'mobile-client',
+src\data\iconData.js:758: 
+       id: 'browser',
+src\data\iconData.js:765: 
+       id: 'spa',
+src\data\iconData.js:772: 
+       id: 'ssr-app',
+src\data\iconData.js:779: 
+       id: 'pwa',
+src\data\iconData.js:786: 
+       id: 'static-site',
+src\data\iconData.js:793: 
+       id: 
+'micro-frontend-host',
+src\data\iconData.js:800: 
+       id: 
+'micro-frontend-remote',
+src\data\iconData.js:807: 
+       id: 'bff',
+src\data\iconData.js:814: 
+       id: 'desktop-app',
+src\data\iconData.js:821: 
+       id: 'iot-device',
+src\data\iconData.js:828: 
+       id: 'smart-watch',
+src\data\iconData.js:835: 
+       id: 'smart-tv',
+src\data\iconData.js:842: 
+       id: 'bot-crawler',
+src\data\iconData.js:849: 
+       id: 'external-api',
+src\data\iconData.js:856: 
+       id: 
+'graphql-client',
+src\data\iconData.js:863: 
+       id: 'jamstack',
+src\data\iconData.js:870: 
+       id: 'websocket',
+src\data\iconData.js:877: 
+       id: 'webrtc',
+src\data\iconData.js:884: 
+       id: 'html5',
+src\data\iconData.js:893: 
+       id: 
+'analytics-service',
+src\data\iconData.js:900: 
+       id: 
+'data-warehouse-v2',
+src\data\iconData.js:907: 
+       id: 
+'interactive-query',
+src\data\iconData.js:914: 
+       id: 
+'big-data-cluster',
+src\data\iconData.js:921: 
+       id: 
+'stream-analytics',
+src\data\iconData.js:928: 
+       id: 'data-catalog',
+src\data\iconData.js:935: 
+       id: 
+'dashboard-analytics',
+src\data\iconData.js:942: 
+       id: 
+'search-analytics',
+src\data\iconData.js:949: 
+       id: 'data-prep',
+src\data\iconData.js:956: 
+       id: 
+'data-exchange',
+src\data\iconData.js:963: 
+       id: 
+'real-time-analytics',
+src\data\iconData.js:970: 
+       id: 
+'business-intel',
+src\data\iconData.js:977: 
+       id: 'data-gov',
+src\data\iconData.js:984: 
+       id: 'data-quality',
+src\data\iconData.js:991: 
+       id: 'data-lineage',
+src\data\iconData.js:998: 
+       id: 
+'predictive-analytics',
+src\data\iconData.js:1005:
+        id: 
+'log-analytics',
+src\data\iconData.js:1012:
+        id: 
+'cloud-search',
+src\data\iconData.js:1019:
+        id: 
+'data-lake-formation',
+src\data\iconData.js:1026:
+        id: 
+'kinesis-video',
+src\data\iconData.js:1035:
+        id: 'ai-service',
+src\data\iconData.js:1042:
+        id: 'ml-model',
+src\data\iconData.js:1049:
+        id: 'sagemaker',
+src\data\iconData.js:1056:
+        id: 'rekognition',
+src\data\iconData.js:1063:
+        id: 'polly',
+src\data\iconData.js:1070:
+        id: 'transcribe',
+src\data\iconData.js:1077:
+        id: 'translate',
+src\data\iconData.js:1084:
+        id: 'textract',
+src\data\iconData.js:1091:
+        id: 'comprehend',
+src\data\iconData.js:1098:
+        id: 'lex',
+src\data\iconData.js:1105:
+        id: 'forecast',
+src\data\iconData.js:1112:
+        id: 'personalize',
+src\data\iconData.js:1119:
+        id: 
+'fraud-detector',
+src\data\iconData.js:1126:
+        id: 'devops-guru',
+src\data\iconData.js:1133:
+        id: 'kendra',
+src\data\iconData.js:1140:
+        id: 'bedrock',
+src\data\iconData.js:1147:
+        id: 
+'codewhisperer',
+src\data\iconData.js:1154:
+        id: 'deepracer',
+src\data\iconData.js:1161:
+        id: 
+'deepcomposer',
+src\data\iconData.js:1168:
+        id: 'healthlake',
+src\data\iconData.js:1177:
+        id: 'iot-core',
+src\data\iconData.js:1184:
+        id: 
+'iot-analytics',
+src\data\iconData.js:1191:
+        id: 
+'iot-defender',
+src\data\iconData.js:1198:
+        id: 
+'iot-device-mgt',
+src\data\iconData.js:1205:
+        id: 'iot-events',
+src\data\iconData.js:1212:
+        id: 
+'iot-greengrass',
+src\data\iconData.js:1219:
+        id: 
+'iot-sitewise',
+src\data\iconData.js:1226:
+        id: 
+'iot-things-graph',
+src\data\iconData.js:1233:
+        id: 'iot-1click',
+src\data\iconData.js:1240:
+        id: 'freertos',
+src\data\iconData.js:1247:
+        id: 
+'iot-twinmaker',
+src\data\iconData.js:1254:
+        id: 
+'iot-fleet-wise',
+src\data\iconData.js:1261:
+        id: 
+'iot-roborunner',
+src\data\iconData.js:1268:
+        id: 
+'kinesis-video-iot',
+src\data\iconData.js:1275:
+        id: 'mqtt-broker',
+src\data\iconData.js:1282:
+        id: 
+'lorawan-gateway',
+src\data\iconData.js:1289:
+        id: 
+'industrial-sensor',
+src\data\iconData.js:1296:
+        id: 'smart-home',
+src\data\iconData.js:1303:
+        id: 
+'smart-camera',
+src\data\iconData.js:1310:
+        id: 
+'wind-turbine',
+src\data\iconData.js:1319:
+        id: 
+'event-bridge',
+src\data\iconData.js:1326:
+        id: 'sns',
+src\data\iconData.js:1333:
+        id: 'sqs',
+src\data\iconData.js:1340:
+        id: 
+'step-functions',
+src\data\iconData.js:1347:
+        id: 'app-flow',
+src\data\iconData.js:1354:
+        id: 'app-sync',
+src\data\iconData.js:1361:
+        id: 'mq-broker',
+src\data\iconData.js:1368:
+        id: 'airflow',
+src\data\iconData.js:1375:
+        id: 
+'simple-workflow',
+src\data\iconData.js:1382:
+        id: 
+'express-workflows',
+src\data\iconData.js:1389:
+        id: 
+'schema-registry',
+src\data\iconData.js:1396:
+        id: 'app-mesh',
+src\data\iconData.js:1403:
+        id: 'cloud-map',
+src\data\iconData.js:1410:
+        id: 
+'api-destinations',
+src\data\iconData.js:1417:
+        id: 'pipes',
+src\data\iconData.js:1424:
+        id: 'scheduler',
+src\data\iconData.js:1431:
+        id: 
+'managed-workflows',
+src\data\iconData.js:1438:
+        id: 
+'datasync-discovery',
+src\data\iconData.js:1445:
+        id: 
+'transfer-family',
+src\data\iconData.js:1452:
+        id: 
+'b2b-exchange',
+src\data\iconData.js:1461:
+        id: 'chime',
+src\data\iconData.js:1468:
+        id: 'connect',
+src\data\iconData.js:1475:
+        id: 'pinpoint',
+src\data\iconData.js:1482:
+        id: 'ses',
+src\data\iconData.js:1489:
+        id: 'workmail',
+src\data\iconData.js:1496:
+        id: 'workdocs',
+src\data\iconData.js:1503:
+        id: 'honeycode',
+src\data\iconData.js:1510:
+        id: 'wickr',
+src\data\iconData.js:1517:
+        id: 
+'supply-chain',
+src\data\iconData.js:1524:
+        id: 'marketing',
+src\data\iconData.js:1531:
+        id: 'commerce',
+src\data\iconData.js:1538:
+        id: 
+'customer-profiles',
+src\data\iconData.js:1545:
+        id: 
+'fraud-prevention',
+src\data\iconData.js:1552:
+        id: 'voice-id',
+src\data\iconData.js:1559:
+        id: 'wisdom',
+src\data\iconData.js:1566:
+        id: 'cases',
+src\data\iconData.js:1573:
+        id: 
+'billing-conductor',
+src\data\iconData.js:1580:
+        id: 
+'cost-explorer',
+src\data\iconData.js:1587:
+        id: 'budgets',
+src\data\iconData.js:1594:
+        id: 
+'compute-optimizer',
+src\data\iconData.js:1603:
+        id: 'code-commit',
+src\data\iconData.js:1610:
+        id: 'code-build',
+src\data\iconData.js:1617:
+        id: 'code-deploy',
+src\data\iconData.js:1624:
+        id: 
+'code-pipeline',
+src\data\iconData.js:1631:
+        id: 'cloud9',
+src\data\iconData.js:1638:
+        id: 'cloudshell',
+src\data\iconData.js:1645:
+        id: 'x-ray',
+src\data\iconData.js:1652:
+        id: 'code-star',
+src\data\iconData.js:1659:
+        id: 
+'code-artifact',
+src\data\iconData.js:1666:
+        id: 'device-farm',
+src\data\iconData.js:1673:
+        id: 
+'fault-injection',
+src\data\iconData.js:1680:
+        id: 'app-config',
+src\data\iconData.js:1687:
+        id: 
+'cloud-control',
+src\data\iconData.js:1694:
+        id: 
+'cloud-formation',
+src\data\iconData.js:1701:
+        id: 'cdk',
+src\data\iconData.js:1708:
+        id: 'amplify',
+src\data\iconData.js:1715:
+        id: 'app-runner',
+src\data\iconData.js:1722:
+        id: 'bug-tracker',
+src\data\iconData.js:1729:
+        id: 'git-repo',
+src\data\iconData.js:1736:
+        id: 
+'build-server',
+src\data\iconData.js:1745:
+        id: 
+'migration-hub',
+src\data\iconData.js:1752:
+        id: 'dms',
+src\data\iconData.js:1759:
+        id: 'sms',
+src\data\iconData.js:1766:
+        id: 'datasync',
+src\data\iconData.js:1773:
+        id: 'snowball',
+src\data\iconData.js:1780:
+        id: 'snow-edge',
+src\data\iconData.js:1787:
+        id: 'snowmobile',
+src\data\iconData.js:1794:
+        id: 
+'ads-discovery',
+src\data\iconData.js:1801:
+        id: 'mgn',
+src\data\iconData.js:1808:
+        id: 
+'mainframe-mod',
+src\data\iconData.js:1815:
+        id: 
+'schema-conversion',
+src\data\iconData.js:1822:
+        id: 
+'sftp-transfer',
+src\data\iconData.js:1829:
+        id: 
+'etl-pipeline',
+src\data\iconData.js:1836:
+        id: 
+'kinesis-firehose',
+src\data\iconData.js:1843:
+        id: 
+'glue-databrew',
+src\data\iconData.js:1850:
+        id: 
+'migration-eval',
+src\data\iconData.js:1857:
+        id: 'app-assess',
+src\data\iconData.js:1864:
+        id: 'db-convert',
+src\data\iconData.js:1871:
+        id: 
+'cart-migration',
+src\data\iconData.js:1878:
+        id: 'vm-import',
+src\data\iconData.js:1887:
+        id: 
+'media-convert',
+src\data\iconData.js:1894:
+        id: 'media-live',
+src\data\iconData.js:1901:
+        id: 
+'media-package',
+src\data\iconData.js:1908:
+        id: 'media-store',
+src\data\iconData.js:1915:
+        id: 
+'media-tailor',
+src\data\iconData.js:1922:
+        id: 
+'media-connect',
+src\data\iconData.js:1929:
+        id: 'ivs',
+src\data\iconData.js:1936:
+        id: 
+'elemental-server',
+src\data\iconData.js:1943:
+        id: 
+'elastic-transcode',
+src\data\iconData.js:1950:
+        id: 
+'kinesis-video-streams',
+src\data\iconData.js:1957:
+        id: 
+'nimble-studio',
+src\data\iconData.js:1964:
+        id: 
+'thinkbox-deadline',
+src\data\iconData.js:1971:
+        id: 
+'media-services',
+src\data\iconData.js:1978:
+        id: 
+'content-production',
+src\data\iconData.js:1985:
+        id: 
+'streaming-distribution',
+src\data\iconData.js:1992:
+        id: 
+'archive-media',
+src\data\iconData.js:1999:
+        id: 
+'media-ingest',
+src\data\iconData.js:2006:
+        id: 
+'digital-rights',
+src\data\iconData.js:2013:
+        id: 
+'subtitle-gen',
+src\data\iconData.js:2020:
+        id: 
+'thumbnail-gen',
+src\data\iconData.js:2029:
+        id: 'workspaces',
+src\data\iconData.js:2036:
+        id: 'appstream',
+src\data\iconData.js:2043:
+        id: 'worklink',
+src\data\iconData.js:2050:
+        id: 
+'workdocs-drive',
+src\data\iconData.js:2057:
+        id: 'wam',
+src\data\iconData.js:2064:
+        id: 'nice-dcv',
+src\data\iconData.js:2071:
+        id: 'thin-client',
+src\data\iconData.js:2078:
+        id: 
+'secure-browser',
+src\data\iconData.js:2085:
+        id: 
+'virtual-desktop',
+src\data\iconData.js:2092:
+        id: 
+'workspace-web',
+src\data\iconData.js:2099:
+        id: 
+'workspace-core',
+src\data\iconData.js:2106:
+        id: 
+'remote-access',
+src\data\iconData.js:2113:
+        id: 
+'endpoint-mgmt',
+src\data\iconData.js:2120:
+        id: 'pc-backup',
+src\data\iconData.js:2127:
+        id: 'file-share',
+src\data\iconData.js:2134:
+        id: 
+'collaboration',
+src\data\iconData.js:2141:
+        id: 'vdi-image',
+src\data\iconData.js:2148:
+        id: 
+'directory-svc',
+src\data\iconData.js:2155:
+        id: 'sso-portal',
+src\data\iconData.js:2162:
+        id: 
+'user-profile',
+src\data\iconData.js:2171:
+        id: 'mobile-hub',
+src\data\iconData.js:2178:
+        id: 
+'location-service',
+src\data\iconData.js:2185:
+        id: 'ios-client',
+src\data\iconData.js:2192:
+        id: 
+'android-client',
+src\data\iconData.js:2199:
+        id: 
+'react-native',
+src\data\iconData.js:2206:
+        id: 'flutter-app',
+src\data\iconData.js:2213:
+        id: 
+'mobile-analytics-new',
+src\data\iconData.js:2220:
+        id: 'push-notif',
+src\data\iconData.js:2227:
+        id: 'in-app-msg',
+src\data\iconData.js:2234:
+        id: 'mobile-auth',
+src\data\iconData.js:2241:
+        id: 
+'offline-sync',
+src\data\iconData.js:2248:
+        id: 'crashlines',
+src\data\iconData.js:2255:
+        id: 'test-lab',
+src\data\iconData.js:2262:
+        id: 
+'feature-flag',
+src\data\iconData.js:2269:
+        id: 'mobile-api',
+src\data\iconData.js:2278:
+        id: 
+'managed-blockchain',
+src\data\iconData.js:2285:
+        id: 'qldb',
+src\data\iconData.js:2292:
+        id: 'miner',
+src\data\iconData.js:2299:
+        id: 'wallet',
+src\data\iconData.js:2306:
+        id: 
+'smart-contract',
+src\data\iconData.js:2313:
+        id: 'token',
+src\data\iconData.js:2320:
+        id: 'ledger',
+src\data\iconData.js:2327:
+        id: 
+'crypto-network',
+src\data\iconData.js:2334:
+        id: 'membership',
+src\data\iconData.js:2341:
+        id: 'proposal',
+src\data\iconData.js:2348:
+        id: 
+'ethereum-node',
+src\data\iconData.js:2355:
+        id: 'fabric-ca',
+src\data\iconData.js:2362:
+        id: 'peer-node',
+src\data\iconData.js:2371:
+        id: 
+'ground-station',
+src\data\iconData.js:2378:
+        id: 'satellite',
+src\data\iconData.js:2385:
+        id: 'antenna',
+src\data\iconData.js:2392:
+        id: 
+'orbital-data',
+src\data\iconData.js:2399:
+        id: 'downlink',
+src\data\iconData.js:2406:
+        id: 'uplink',
+src\data\iconData.js:2413:
+        id: 
+'mission-profile',
+src\data\iconData.js:2420:
+        id: 
+'satellite-contact',
+src\data\iconData.js:2427:
+        id: 'rf-signal',
+src\data\iconData.js:2434:
+        id: 'space-image',
+src\data\iconData.js:2443:
+        id: 'gamelift',
+src\data\iconData.js:2450:
+        id: 'lumberyard',
+src\data\iconData.js:2457:
+        id: 'game-spark',
+src\data\iconData.js:2464:
+        id: 'game-kit',
+src\data\iconData.js:2471:
+        id: 'game-server',
+src\data\iconData.js:2478:
+        id: 'matchmaking',
+src\data\iconData.js:2485:
+        id: 'leaderboard',
+src\data\iconData.js:2492:
+        id: 'player-data',
+src\data\iconData.js:2499:
+        id: 
+'game-analytics',
+src\data\iconData.js:2506:
+        id: 'session-mgr',
+src\data\iconData.js:2513:
+        id: 'game-sec',
+src\data\iconData.js:2520:
+        id: 'voice-chat',
+src\data\iconData.js:2529:
+        id: 
+'organizations',
+src\data\iconData.js:2536:
+        id: 
+'control-tower',
+src\data\iconData.js:2543:
+        id: 
+'trusted-advisor',
+src\data\iconData.js:2550:
+        id: 
+'well-architected',
+src\data\iconData.js:2557:
+        id: 
+'license-manager',
+src\data\iconData.js:2564:
+        id: 
+'service-catalog',
+src\data\iconData.js:2571:
+        id: 
+'health-dashboard',
+src\data\iconData.js:2578:
+        id: 
+'support-center',
+src\data\iconData.js:2585:
+        id: 'marketplace',
+src\data\iconData.js:2592:
+        id: 
+'systems-manager',
+src\data\iconData.js:2599:
+        id: 'opsworks',
+src\data\iconData.js:2606:
+        id: 
+'managed-services',
+src\data\iconData.js:2613:
+        id: 
+'console-mobile',
+src\data\iconData.js:2620:
+        id: 'chat-ops',
+src\data\iconData.js:2627:
+        id: 
+'auto-scaling',
+
+
